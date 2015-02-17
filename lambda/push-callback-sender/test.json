@@ -1,0 +1,13 @@
+{
+  "handlers":[
+    {
+      "url": "http://requestb.in/1982p0u1",
+      "method": "GET"
+    },
+    {
+      "url": "http://requestb.in/pm5kvrpm",
+      "method": "POST"
+    }
+  ],
+  "body": "wow so string!\n boobs"
+}
